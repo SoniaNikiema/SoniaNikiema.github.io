@@ -13,11 +13,8 @@ title = "Sonia Nikiema"
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
 
-theme = "hugo-academic"
-enableEmoji = true
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
-
 
 
 # Enter a copyright notice to display in the site footer.
@@ -27,50 +24,6 @@ copyright = ""
 ############################
 ## Advanced options below ##
 ############################
-
-[blackfriday]
-  hrefTargetBlank = true
-
-[params]
-  name = "Sonia Nikiema"
-  description = "Economists Do It With Data"
-  role = "Data Analytics"
-  organization = "Saga Nutrients"
-  organization_url = "https://www.etsy.com/shop/saganutrients/"
-  avatar = "avatar"
-  email = "sonianikiema2020@gmail.com"
-  address = ""
-  office_hours = ""
-  phone = ""
-  skype = ""
-  telegram = ""
-  twitter = "saganutrients"
-  github = "SoniaNikiema"
-  
-  [[params.social]]
-    icon = "paper-plane"
-    icon_pack = "fa"
-    link = "mailto:sonianikiema2020@gmail.com"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/saganutrients"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=yGD9V6MAAAAJ&hl=en"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/sonianikiema"
-    
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/sonianikiema/"
 
 
 # Get last modified date for content from Git?
