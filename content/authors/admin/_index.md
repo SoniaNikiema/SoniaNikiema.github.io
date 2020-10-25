@@ -28,9 +28,10 @@ education:
   - course: R/SQL/Tableau/Power BI 
     year: 2018
   - course: Internationa Finance
-    institution: Massachusetts Institute of Technology
+    institution: Georgia State Univerty
     year: 2019
   - course: Statistics-probability-Math 
+    institution: Georgia State Univerty
     year: 2008
 
 # Social/Academic Networking
