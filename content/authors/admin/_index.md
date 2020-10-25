@@ -73,8 +73,8 @@ user_groups:
 - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sonia Nikiema is a Data Analyst of Saga Nutrients, a Health & Personal Care Orgsnisation, she created in 2015. Her research consist of using open source data to visualize trend and to provide insight to businesses, ONG's & GVMT agencies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+On a personal level, Sonia Nikiema is detail-oriented, and precise in her work; the only thing cleaner than her house is her spreadsheet. She is very patient with a clear and illuminating strength of perseverance.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
