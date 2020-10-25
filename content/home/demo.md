@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Demos
+title: Resumé
 subtitle:
 
 design:
@@ -28,16 +28,16 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **resumé template** for Academic.
+Feel Free to Check my **resumé**.
 
-[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
+[Linkedin Profile](https://www.linkedin.com/in/sonianikiema/).
 
-**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
+[Twitter Profile](http://twitter.com/saganutrients).
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+**[Join me](https://www.linkedin.com/in/sonianikiema/)**
 
 {{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+Sonia Nikiema is about to graduate at [GSU](https://www.gsu.edu/) in [*Economics* Major](https://aysps.gsu.edu/program/international-economics-and-modern-languages-ba/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+She likes to use Economics Models to *Visualize* and *Analyse* Data.
 {{% /alert %}}
