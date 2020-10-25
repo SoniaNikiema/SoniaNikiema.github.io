@@ -25,28 +25,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.linkedin.com/learning/me/completed?u=76216298
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-10-23"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Linkedin/Learning
+  organization_url: https://www.linkedin.com
+  title: Data Analysis/ Forecasting
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.linkedin.com/learning/me/completed?u=76216298
   date_end: ""
-  date_start: "2018-03-01"
+  date_start: "2020-09-20"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  organization: Linkedin/Learning
+  organization_url: https://www.linkedin.com
+  title: R Statistics Essential Training
+  url: https://www.linkedin.com/learning/me/completed?u=76216298
+- certificate_url: https://www.linkedin.com
+  date_end: "2020-04-09"
+  date_start: "2020-04-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: Linkedin/Learning
+  organization_url: https://www.linkedin.com
+  title: 'REssential-Training: Wrangling and Visualizing Data'
   url: ""
 ---

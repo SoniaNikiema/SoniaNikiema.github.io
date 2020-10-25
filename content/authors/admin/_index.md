@@ -43,13 +43,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # OR `google-scholar`
-  icon_pack: fas  # OR `ai`
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/saganutrients
+# icon: graduation-cap  # OR `google-scholar`
+  #icon_pack: fas  # OR `ai`
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/SoniaNikiema
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
