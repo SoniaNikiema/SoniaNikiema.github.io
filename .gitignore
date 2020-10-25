@@ -7,9 +7,6 @@
 
 # User-specific files
 .Ruserdata
-blogdown
-.DS_Store # if a windows user, Thumbs.db instead
-public/
 
 # Example code in package build process
 *-Ex.R
