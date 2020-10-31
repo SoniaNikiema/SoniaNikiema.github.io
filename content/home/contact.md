@@ -22,7 +22,7 @@ autolink: true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form: 2
+#email_form: 2
 
 netlify:
   # Enable CAPTCHA challenge to reduce spam?
@@ -33,5 +33,20 @@ netlify:
 action="https://formspree.io/f/moqpdopp"
 method="POST">
 
-  <button type="submit">Send</button>
+  <label>
+    Your name:
+    <input type="text" name="name">
+  </label>
+  
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+ 
+ <input type="submit" value="Send"> 
 </form>

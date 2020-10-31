@@ -51,7 +51,7 @@ hero_media = "hero-academic.png"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**I will be doing Analytics with Open Source Data (Business/ONG/Gvmt)**
+**simple Analytics with Open Source Data (Business/NGO/Gvmt)**
 
 Build **Anything** with data
 

@@ -23,12 +23,18 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Abalysis:Forcasting"
+  name = "Analysis:Forcasting"
   description = "50%"  
   
+#[[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photographer"
+#  description = "50%"
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
+  icon = "tableau"
+  icon_pack = "SVG"
   name = "Tableau"
   description = "50%"
 
