@@ -21,11 +21,12 @@ interests:
 - Data Analytics
 - Data Visualization
 - Data Programming
+- Salesforce Admin
 
 # Education to show in About widget
 education:
   courses:
-  - course: R/SQL/Tableau/Power BI 
+  - course: R/SQL/Tableau/Salesforce Admin 
     year: 2018
   - course: Internationa Finance
     institution: Georgia State Univerty
