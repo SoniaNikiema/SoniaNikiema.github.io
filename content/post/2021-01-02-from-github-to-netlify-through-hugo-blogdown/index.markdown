@@ -1,6 +1,6 @@
 ---
 title: "from-github-to-netlify-through-hugo-blogdown"
-author: "null"
+author: "Sonia Nikiema"
 date: '2021-01-02'
 categories: []
 featured: no
@@ -14,7 +14,7 @@ slug: from-github-to-netlify-through-hugo-blogdown
 subtitle: ''
 summary: ''
 tags: []
-authors: []
+authors: [Sonia Nikiema]
 ---
 
 # Github Repository
