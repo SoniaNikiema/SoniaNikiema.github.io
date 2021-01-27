@@ -4,7 +4,7 @@ author: "Sonia Nikiema"
 date: '2021-01-02'
 categories: []
 featured: no
-image:
+image: 
   caption: ''
   focal_point: ''
   preview_only: no
@@ -17,9 +17,11 @@ tags: []
 authors: [Sonia Nikiema]
 ---
 
+![help_other_learn](/image/help_other_learn.jpg)
+
 # Github Repository
 
-- Creat a new repository(add .gitignore (R), readme)
+- Create a new repository(add .gitignore (R), readme)
 - click on the green clone 
 - Copy https link
 
@@ -120,15 +122,64 @@ Once you successfully deployed Then go back to your R project and continue to ed
 
 - copy your resume to `static/media/resume.pdf`
 
+## Edit config/menus.toml
+ 
+- Add or remove Navigation Links: To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+desired widget in your `content/home/` folder.
+- Insert desire widget in your `content/home/` folder
+
+## Edit config/params.toml
+- Disable default address, Geographic coordinates...
+- sharing and search engines. Place image in `static/media/` folder and specify image name here
+- Avatar is an image that appears next to a user's name.An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
+
 FYI: you can insert all your pictures to `content/home/gallery`
 
 # Create a post
 
+## create post with a code
 ```r
  blogdown::new_post(title = "my first content", 
                      ext = '.Rmarkdown', 
                      subdir = "post")
 ```
-This takes the path to where you want your post to live, relative to the content/ folder (so that piece of the path is assumed, rightly so!)
+This takes the path to where you want your post to live, relative to the `content/` folder (so that piece of the path is assumed, rightly so!)
+
+## create post without a code
+
+Go to addins, fill out all information and click done
+
+## insert a image
+
+1. Add image on `static/image/` folder
+2. Refer the image using the relative path
+
+```r
+![help_other_learn](/image/help_other_learn.jpg)
+```
+FYI: you can also insert image through `addin->insert image-> download file name(image1)`  
+
+```r
+![](image1.jpg)
+```
+
+## insert a GIF
+
+1. Find GIF online, (copy image in new tab), then copy the link
+2. Refer to the link on your markdown (not a R code Chunk). See example below
+
+```r
+![](https://media4.giphy.com/media/2wh5JHFov2nuW16v7u/giphy.gif?cid=ecf05e47noihitsq192nuazi4amcg5raudvf7ohb0zd3xmsc&rid=giphy.gif)
+```
+## insert an  Emoji emoticons
+
+1. Set `config.toml-> enableEmoji = true`
+2. Refer Emoji by its name on Markdown like `:smile` 
+
+We all set!!!
+Lunch time :smile:
+
+![](https://media4.giphy.com/media/2wh5JHFov2nuW16v7u/giphy.gif?cid=ecf05e47noihitsq192nuazi4amcg5raudvf7ohb0zd3xmsc&rid=giphy.gif)
+
 
 
