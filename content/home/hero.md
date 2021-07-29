@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Economists Do It With Data"
+title = "Create Economy while learning economics"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"
@@ -37,8 +37,8 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://www.linkedin.com/in/sonianikiema/"
-  label = "Let's Connect"
+  url = "https://calendar.google.com/calendar/u/0/r?tab=uc&pli=1/"
+  label = "Book your appointment"
   icon_pack = "fas"
   icon = "download"
   
@@ -51,8 +51,8 @@ hero_media = "hero-academic.png"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**simple Analytics with Open Source Data (Business/NGO/Gvmt)**
+**Book your Senegalese Twist (with a Professional Braider)**
 
-Build **Anything** with data
+Invest in **Yourself** 
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/SoniaNikiema/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

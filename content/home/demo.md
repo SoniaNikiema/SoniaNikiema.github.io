@@ -37,7 +37,7 @@ Feel Free to Check my **resumé**.
 **[Join me](https://www.linkedin.com/in/sonianikiema/)**
 
 {{% alert note %}}
-Sonia Nikiema is about to graduate at [GSU](https://www.gsu.edu/) in [*Economics* Major](https://aysps.gsu.edu/program/international-economics-and-modern-languages-ba/).
+Sonia Nikiema is attending [GSU](https://www.gsu.edu/) in [*Economics* Major](https://aysps.gsu.edu/program/international-economics-and-modern-languages-ba/).
 
 She likes to use Economics Models to *Visualize* and *Analyse* Data.
 {{% /alert %}}

@@ -9,9 +9,9 @@ superuser: true
 role: Data Analytics
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Saga Nutrients
-  url: https://www.etsy.com/shop/saganutrients/
+#organizations:
+#- name: Saga Nutrients
+#  url: https://www.etsy.com/shop/saganutrients/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Data Analytics and Visualizations.
@@ -75,7 +75,7 @@ user_groups:
 - Principal Investigators
 ---
 
-Sonia Nikiema is a Data Analyst of Saga Nutrients, a Health & Personal Care Orgsnisation, she created in 2015. Her research consist of using open source data to visualize trend and to provide insight to businesses, ONG's & GVMT agencies.
+Sonia Nikiema like to work with data and economic models to communicate (` Such communication includes written content, as well as data visualizations and presentations`) information on conditions in economies ranging from local to national levels. 
 
 On a personal level, Sonia Nikiema is detail-oriented, and precise in her work; the only thing cleaner than her house is her spreadsheet. She is very patient with a clear and illuminating strength of perseverance.
 

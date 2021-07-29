@@ -95,6 +95,13 @@ Then commit and push
 
 - Edit (`content/home/hero.md`)
 
+- Edit (`content/home/demo.md`) -> will be demo / resume widget
+
+- Edit (`content/home/hero.md`) -> will be demo / first page
+
+- Edit (`content/authors/admin/index.md`) ->will be demo / biography
+
+
 # Deployed with Netlify
 
 - go to [ Netlify](https://www.netlify.com/) and register with github
