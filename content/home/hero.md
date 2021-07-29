@@ -37,7 +37,7 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://calendar.google.com/calendar/u/0/r?tab=uc&pli=1/"
+  url = "https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUhMbEo1LW1ROUxNfGRlZmF1bHR8NDE0MzkyMGY1YWU4NTExYzMzNzU4NDEwMjNjYTUwNDM/"
   label = "Book your appointment"
   icon_pack = "fas"
   icon = "download"
